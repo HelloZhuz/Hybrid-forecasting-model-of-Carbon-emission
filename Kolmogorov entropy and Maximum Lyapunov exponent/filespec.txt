@@ -1,4 +1,0 @@
-The largest Lyapunov exponent of carbon emissions in the United States can be obtained by running Lyapunov_US.m
-The largest Lyapunov exponent of carbon emissions in China can be obtained by running Lyapunov_china.m
-Kolmogorov entropy of carbon emissions in the United States can be obtained by running Kolmogorov_US.m
-Kolmogorov entropy of carbon emissions in China can be obtained by running Kolmogorov_china.m
